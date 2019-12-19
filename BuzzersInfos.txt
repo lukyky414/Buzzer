@@ -1,0 +1,24 @@
+
+Number of possible configurations: 1
+Device Class: 0
+VendorID: 0x54c
+ProductID: 0x1000
+
+Interfaces: 1
+
+--------------------
+
+Number of alternate settings: 1
+
+..........
+
+Interface Number: 0
+Number of endpoints: 1
+
+bLength: 7
+bDescriptorType: 5 (Should always be 5)
+bEndpointAddress: 10000001
+bmAttributes: 00000011
+wMaxPacketSize: 8
+bInterval: 10
+
